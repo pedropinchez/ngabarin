@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "459351574638",
+    "firebase_url": "https://ngabarin-f1c3d.firebaseio.com",
+    "project_id": "ngabarin-f1c3d",
+    "storage_bucket": "ngabarin-f1c3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459351574638:android:48cb892f2f96f81b",
+        "android_client_info": {
+          "package_name": "com.betaministudio.application.ngabarin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459351574638-7n5uvf2nk8bbktub7s6aru5hipeorjga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.betaministudio.application.ngabarin",
+            "certificate_hash": "bc0f75a7dd694fea8813dc8bce1ad15f9c50fb24"
+          }
+        },
+        {
+          "client_id": "459351574638-gmu4ie4e0agdidt111v6dphul4lnhhkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcPCn8ngSHjemD8oTLO838dlt5-Yvh9r4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459351574638-gmu4ie4e0agdidt111v6dphul4lnhhkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
